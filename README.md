@@ -12,7 +12,9 @@ My name is Francisco José Garcia Reinoso, im currently studying a bachelor's de
 * Typescript
 * Angular
 ## How to reach me
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+<a href="https://instagram.com/fjreinoso">
+ <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-@FjReinoso-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;">
+ </a>
 <a href="https://x.com/FjReinoso">
  <img src="https://img.shields.io/badge/Twitter-@fjreinoso-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white&amp;labelColor=101010" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter-@fjreinoso-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;">
 </a>
