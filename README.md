@@ -13,7 +13,8 @@ My name is Francisco José Garcia Reinoso, im currently studying a bachelor's de
 * Angular
 ## How to reach me
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+![X]()
+<a href="https://x.com/FjReinoso"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Profile" "></a>
 <!--
 **FjReinoso/FjReinoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
