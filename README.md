@@ -1,10 +1,10 @@
 ### Hi friends! 👋
 My name is Francisco José Garcia Reinoso, im currently studying a bachelor's degree in Web Design in Spain. I enjoy the most UX Design and Frontend.
 
- ##About me
+ ## About me
  I'm a Frontend Student from the south of Spain, previously I studied Agricultural Engineering,but what I enjoy the most is coding and trying new things!
 
-##Technologies and tools
+## Technologies and tools
 * Python
 * ASP.Net
 * HTML / CSS
