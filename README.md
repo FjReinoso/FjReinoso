@@ -11,6 +11,10 @@ My name is Francisco José Garcia Reinoso, im currently studying a bachelor's de
 * Javascript
 * Typescript
 * Angular
+
+## Projects where I worked on ...
+ *Ejemplo 1
+ 
 ## How to reach me
 <a href="https://instagram.com/fjreinoso">
  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-@fjreinoso-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;">
