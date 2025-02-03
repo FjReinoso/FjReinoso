@@ -13,7 +13,12 @@ My name is Francisco José Garcia Reinoso, im currently studying a bachelor's de
 * Angular
 
 ## Projects where I worked on ...
- *Ejemplo 1
+* Internal CRM
+* Schedule planner
+
+## Fun fact ⚡ : 
+* As a hobby I enjoy playing some brass instruments!
+  
  
 ## How to reach me
 <a href="https://instagram.com/fjreinoso">
