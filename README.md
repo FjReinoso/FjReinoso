@@ -7,10 +7,11 @@ My name is Francisco José Garcia Reinoso, im currently studying a bachelor's de
 ## Technologies and tools
 * Python
 * ASP.Net
-* HTML / CSS
+* HTML/CSS
 * Javascript
 * Typescript
-* Angular
+* Angular / React
+* Currently learning COBOL / Java
 
 ## Projects where I worked on ...
 * Internal CRM
